@@ -2,7 +2,7 @@
 Another C++ Project I'll Probably Abandon
 
 - Language: C++
-- Editor: Visual Studio 2017
+- IDE: Visual Studio 2017
 - Image Editor: Paint.net
 - GIF Compiler: Pyxel Edit
 
