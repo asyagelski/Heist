@@ -4,6 +4,7 @@ Another C++ Project I'll Probably Abandon
 - Language: C++
 - Editor: Visual Studio 2017
 - Image Editor: Paint.net
+- GIF Compiler: Pyxel Edit
 
 ### Current Assets
 - Cop walking with swinging shoulders, no hat bob.
